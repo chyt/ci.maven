@@ -30,6 +30,6 @@ public class InstallServerMojo extends PluginConfigSupport {
             return;
         }
 
-        installServerAssembly();
+        //installServerAssembly();
     }
 }
